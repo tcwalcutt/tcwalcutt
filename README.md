@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tcwalcutt
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on nothing currently
+- 💞️ I’m looking to collaborate on anything that will gain me knowledge
 - 📫 How to reach me tcwalcutt@live.com
 
 <!---
